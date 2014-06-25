@@ -4,7 +4,7 @@ Plugin URI: http://www.kdclabs.com/?p=149
 Donate link: https://www.payumoney.com/webfront/index/kdclabs
 Tags: WooCommerce, Payment Gateway, Atom, atomtech, Atom Paynetz, Financial Technologies, Atom Techonolgies
 Requires at least: 3.5.1
-Tested up to: 3.8.1
+Tested up to: 3.9.1
 Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
